@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PVZCracker", "PVZCracker.vcxproj", "{6185A013-CC55-4CCE-B345-72CD2B483944}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "植物大战僵尸杂交版破解", "..\植物大战僵尸杂交版破解\植物大战僵尸杂交版破解.vdproj", "{0DE9AA76-9F38-470D-94A5-8EE67D8B5DF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6185A013-CC55-4CCE-B345-72CD2B483944}.Debug|x64.ActiveCfg = Debug|x64
+		{6185A013-CC55-4CCE-B345-72CD2B483944}.Debug|x64.Build.0 = Debug|x64
+		{6185A013-CC55-4CCE-B345-72CD2B483944}.Debug|x86.ActiveCfg = Debug|Win32
+		{6185A013-CC55-4CCE-B345-72CD2B483944}.Debug|x86.Build.0 = Debug|Win32
+		{6185A013-CC55-4CCE-B345-72CD2B483944}.Release|x64.ActiveCfg = Release|x64
+		{6185A013-CC55-4CCE-B345-72CD2B483944}.Release|x64.Build.0 = Release|x64
+		{6185A013-CC55-4CCE-B345-72CD2B483944}.Release|x86.ActiveCfg = Release|Win32
+		{6185A013-CC55-4CCE-B345-72CD2B483944}.Release|x86.Build.0 = Release|Win32
+		{0DE9AA76-9F38-470D-94A5-8EE67D8B5DF6}.Debug|x64.ActiveCfg = Debug
+		{0DE9AA76-9F38-470D-94A5-8EE67D8B5DF6}.Debug|x86.ActiveCfg = Debug
+		{0DE9AA76-9F38-470D-94A5-8EE67D8B5DF6}.Release|x64.ActiveCfg = Release
+		{0DE9AA76-9F38-470D-94A5-8EE67D8B5DF6}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73C90A89-8867-4BA1-9BE2-D80370B7768D}
+	EndGlobalSection
+EndGlobal
